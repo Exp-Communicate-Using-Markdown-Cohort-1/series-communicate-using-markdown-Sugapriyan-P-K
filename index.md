@@ -6,3 +6,7 @@
 ###### H6 Header
 
 ![Image](https://octodex.github.com/images/yaktocat.png)
+
+```
+print("hello, world!")
+```
